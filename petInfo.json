@@ -1,7 +1,7 @@
 
 
 
-var thePets[{"name":"maoww",
+           [{"name":"maoww",
              "favFood":"carret",
              "species":"cat"},
             
@@ -11,4 +11,4 @@ var thePets[{"name":"maoww",
             
             {"name":"koukou",
              "favFood":"insects",
-             "species":"peocock"}];
+             "species":"peocock"}]
