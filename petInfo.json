@@ -1,0 +1,14 @@
+
+
+
+var thePets[{"name":"maoww",
+             "favFood":"carret",
+             "species":"cat"},
+            
+            {"name":"bhobho",
+             "favFood":"non-veg",
+             "species":"dog"},
+            
+            {"name":"koukou",
+             "favFood":"insects",
+             "species":"peocock"}];
